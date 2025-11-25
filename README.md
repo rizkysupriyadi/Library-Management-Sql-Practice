@@ -31,10 +31,3 @@ A practical SQL project simulating a Library Management System database. This pr
 ## 🛠 Tools
 - PostgreSQL / MySQL compatible SQL syntax
 - DBeaver / pgAdmin / CLI (optional)
-
----
-
-## 📥 How to Use
-Clone this repository:
-```bash
-git clone https://github.com/username/library-management-sql-practice.git
