@@ -1,6 +1,3 @@
-# Library-Management-Sql-Practice
-A practical SQL project for a Library Management System. Includes creating database tables, inserting sample records, running CRUD operations, modifying table structures, and performing data filtering queries. Built to strengthen SQL fundamentals before learning JOIN and aggregation.
-
 # 📚 Library Management System — SQL Practice
 
 A practical SQL project simulating a Library Management System database. This project includes creating tables, inserting sample records, performing CRUD operations, modifying table structures, and running data filtering queries to support learning SQL fundamentals.
